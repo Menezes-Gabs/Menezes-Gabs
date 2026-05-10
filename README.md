@@ -1,16 +1,40 @@
-## Hi there 👋
+## Gabriel Menezes Sousa
 
-<!--
-**Menezes-Gabs/Menezes-Gabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Development Student — Python · JavaScript · HTML/CSS · Automation
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/gabrielmenezessousa/) ·
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Building practical web apps, automation tools, and database-backed systems.
+Currently looking for internship and junior developer opportunities.
+
+---
+
+**What I'm building**
+
+- Expanding my backend and database project portfolio
+
+---
+
+**Tech Stack**
+
+| Layer         | Technologies                        |
+|---------------|-------------------------------------|
+| Languages     | Python, JavaScript, HTML, CSS       |
+| Frontend      | Vanilla JS, responsive layouts      |
+| Automation    | Python scripting and APIs           |
+| Databases     | SQL, structured data modeling       |
+| Tools         | Git, VS Code                        |
+
+---
+
+**Featured Projects**
+
+- **[whatsapp-automation-bot](#)** — Automated messaging workflows in Python
+- **[one-store](#)** — Xbox game store frontend — HTML, CSS, JavaScript
+- **[gesture-detection](#)** *(in progress)* — Real-time gesture recognition with OpenCV
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/gabrielmenezessousa/) · · [github.com/Menezes-Gabs](https://github.com/Menezes-Gabs)
