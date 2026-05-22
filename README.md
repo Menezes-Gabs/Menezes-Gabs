@@ -33,7 +33,7 @@ Currently looking for internship and junior developer opportunities.
 **Featured Projects**
 
 - **[whatsapp-automation-bot](#)** [*In progress]— Automated messaging workflows in Python
-- **[one-store](#)** — Xbox game store frontend — HTML, CSS, JavaScript
+- **[one-store](#https://menezes-gabs.github.io/ONE-STORE/)** — Xbox game store frontend — HTML, CSS, JavaScript
 
 ---
 
