@@ -1,7 +1,7 @@
 ## Welcome!
 <img width="1472" height="530" alt="image" src="https://github.com/user-attachments/assets/e99e62ad-90ee-446b-bea5-a70ab8d8011b" />
 
-Systems Development Student — Python · JavaScript · HTML/CSS · Automation
+Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
 [LinkedIn](https://www.linkedin.com/in/gabrielmenezessousa/) ·
 
@@ -22,18 +22,18 @@ Currently looking for internship and junior developer opportunities.
 
 | Layer         | Technologies                        |
 |---------------|-------------------------------------|
-| Languages     | Python, JavaScript, HTML, CSS       |
+| Languages     | Python, Java, C++, C#               |
 | Frontend      | Vanilla JS, responsive layouts      |
 | Automation    | Python scripting and APIs           |
 | Databases     | SQL, structured data modeling       |
-| Tools         | Git, VS Code                        |
+| Tools         | Git, VS Code, Arduino               |
 
 ---
 
 **Featured Projects**
 
-- **[whatsapp-automation-bot](#)** [*In progress]— Automated messaging workflows in Python
-- **[one-store](https://menezes-gabs.github.io/ONE-STORE/)** — Xbox game store frontend — HTML, CSS, JavaScript
+- ** TCC (Final Project) Project: Screen time control - FocusMind - Android Java, Java, PHP, JS, WebProject 
+- ** System for technical support calls - Android Java, PHP, JS, C#, WebProject
 
 ---
 
