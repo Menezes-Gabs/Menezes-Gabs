@@ -1,5 +1,5 @@
 ## Welcome!
-<img width="1472" height="530" alt="image" src="https://github.com/user-attachments/assets/e99e62ad-90ee-446b-bea5-a70ab8d8011b" />
+<img width="1472" height="530" alt="image" src="[https://github.com/user-attachments/assets/e99e62ad-90ee-446b-bea5-a70ab8d8011b](https://th.bing.com/th/id/OIP.b0M1ldZpZqgQeQOC3iLtpAHaEz?w=254&h=180&c=7&r=0&o=7&pid=1.7&rm=3)" />
 
 Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
