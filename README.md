@@ -1,5 +1,5 @@
 ## Welcome!
-<img width="1250" height="250" alt="image" src="OIP.webp" />
+<img width="1250" height="350" alt="image" src="OIP.webp" />
 
 Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
