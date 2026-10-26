@@ -20,7 +20,7 @@ Currently looking for internship and junior developer opportunities.
 
 ### Tech Stack
 
-#### 🌐 Frontend
+#### Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
@@ -33,7 +33,7 @@ Currently looking for internship and junior developer opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
 </div>
 
-#### 💻 Backend & Languages
+#### Backend & Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
@@ -44,19 +44,19 @@ Currently looking for internship and junior developer opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
 </div>
 
-#### 🗄️ Databases
+#### Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </div>
 
-#### 📱 Mobile & Hardware
+#### Mobile & Hardware
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
 </div>
 
-#### 🛠️ Environment & Tools
+#### Environment & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 </div>
