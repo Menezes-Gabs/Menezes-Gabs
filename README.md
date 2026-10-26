@@ -5,8 +5,8 @@ Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
 ---
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielmenezessousa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   <a href="https://www.linkedin.com/in/gabrielmenezessousa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -14,9 +14,9 @@ Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
 ### 🚀 Featured Projects
 
-*   **[FocusMind](link_do_repo)**: Plataforma de controlo de tempo de ecrã e hábitos (TCC). Construído com Android (Java), PHP e JS.
-*   **[Sistema de Chamados de Suporte](link_do_repo)**: Plataforma de gestão de suporte técnico utilizando Android, PHP e C#.
-*   **[Restaurante 2.0 DellaTorre](link_do_repo)**: Sistema de gestão de clientes, inventário e faturação desenvolvido em C# (Windows Forms) com integração MySQL.
+*   **[FocusMind]**: Screen time control and habit-tracking platform (TCC). Built with Android (Java), PHP, and JS.
+*   **[Technical Support System]**: Support call management platform utilizing Android, PHP, and C#.
+*   **[Inventory & Customer Management]**: C# Windows Forms desktop application featuring MySQL database integration for managing customer records (`tb_cliente`) and stock levels (`tb_estoque`).
 
 ### 📊 GitHub Stats
 
@@ -24,7 +24,6 @@ Systems Development Student — Python · JavaScript · Full-Stack · Automation
   <img src="https://github-readme-stats.vercel.app/api?username=Menezes-Gabs&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezes-Gabs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
-
 ---
 
 ### Tech Stack
