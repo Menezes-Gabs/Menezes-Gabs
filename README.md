@@ -3,18 +3,27 @@
 
 Systems Development Student — Python · JavaScript · Full-Stack · Automation
 
-[LinkedIn](https://www.linkedin.com/in/gabrielmenezessousa/) ·
+---
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielmenezessousa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
-Building practical web apps, automation tools, and database-backed systems.
-Currently looking for internship and junior developer opportunities.
+### 🚀 Featured Projects
 
----
+*   **[FocusMind](link_do_repo)**: Plataforma de controlo de tempo de ecrã e hábitos (TCC). Construído com Android (Java), PHP e JS.
+*   **[Sistema de Chamados de Suporte](link_do_repo)**: Plataforma de gestão de suporte técnico utilizando Android, PHP e C#.
+*   **[Restaurante 2.0 DellaTorre](link_do_repo)**: Sistema de gestão de clientes, inventário e faturação desenvolvido em C# (Windows Forms) com integração MySQL.
 
-**What I'm building**
+### 📊 GitHub Stats
 
-- Expanding my backend and database project portfolio
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Menezes-Gabs&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezes-Gabs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
 ---
 
@@ -62,12 +71,3 @@ Currently looking for internship and junior developer opportunities.
 </div>
 
 ---
-
-**Featured Projects**
-
-- ** TCC (Final Project) Project: Screen time control - FocusMind - Android Java, Java, PHP, JS, WebProject 
-- ** System for technical support calls - Android Java, PHP, JS, C#, WebProject
-
----
-
-[LinkedIn](https://www.linkedin.com/in/gabrielmenezessousa/) · · [github.com/Menezes-Gabs](https://github.com/Menezes-Gabs)
